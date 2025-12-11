@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6fe4704-e314-427f-acee-1a65a405345f" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/ch5QuizCoinFlipDebug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allMyCats1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allMyCats2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6Practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Automatetheboring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automatetheboring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch5Quiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myProgramLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myProgramLog.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +33,10 @@
     &quot;assignee&quot;: &quot;ikkyotheman&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="61433f71-33e0-40fd-a1d9-97d1798ab86c" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ikkyotheman/automatingtheboring&quot;,
-    &quot;accountId&quot;: &quot;61433f71-33e0-40fd-a1d9-97d1798ab86c&quot;
+    &quot;url&quot;: &quot;https://github.com/ikkyotheman/automatingtheboring.git&quot;,
+    &quot;accountId&quot;: &quot;96be6649-12a9-4568-8a58-6b07fa8c5071&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -51,10 +50,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.allMyCats1.executor": "Run",
+    "Python.allMyCats2.executor": "Run",
     "Python.assert.executor": "Run",
     "Python.buggyAddingProgram.executor": "Debug",
     "Python.ch5Quiz.executor": "Run",
     "Python.ch5QuizCoinFlipDebug.executor": "Run",
+    "Python.ch6Practice.executor": "Run",
     "Python.factorialLog.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -65,7 +67,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
