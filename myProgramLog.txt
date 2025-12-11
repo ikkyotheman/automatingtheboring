@@ -38,3 +38,40 @@
  2025-12-08 20:58:48,516 -  DEBUG -  i is 9, total is 362880
  2025-12-08 20:58:48,516 -  DEBUG -  End of factorial(9)
  2025-12-08 20:58:48,516 -  DEBUG -  End of program
+ 2025-12-10 15:28:58,038 -  DEBUG -  User guesses
+ 2025-12-10 15:28:58,038 -  DEBUG -  comparing
+ 2025-12-10 15:29:03,820 -  DEBUG -  User guesses
+ 2025-12-10 15:29:03,821 -  DEBUG -  comparing
+ 2025-12-10 15:29:07,465 -  DEBUG -  User guesses
+ 2025-12-10 15:29:07,465 -  DEBUG -  comparing
+ 2025-12-10 15:29:09,738 -  DEBUG -  Second guess
+ 2025-12-10 15:29:14,487 -  DEBUG -  User guesses
+ 2025-12-10 15:29:14,488 -  DEBUG -  comparing
+ 2025-12-10 15:29:17,974 -  DEBUG -  User guesses
+ 2025-12-10 15:29:17,975 -  DEBUG -  comparing
+ 2025-12-10 15:29:23,349 -  DEBUG -  User guesses
+ 2025-12-10 15:29:23,350 -  DEBUG -  comparing
+ 2025-12-10 15:29:27,309 -  DEBUG -  User guesses
+ 2025-12-10 15:29:27,310 -  DEBUG -  comparing
+ 2025-12-10 15:29:30,551 -  DEBUG -  User guesses
+ 2025-12-10 15:29:30,552 -  DEBUG -  comparing
+ 2025-12-10 15:29:32,686 -  DEBUG -  Second guess
+ 2025-12-10 15:29:37,505 -  DEBUG -  User guesses
+ 2025-12-10 15:29:37,506 -  DEBUG -  comparing
+ 2025-12-10 15:29:40,180 -  DEBUG -  User guesses
+ 2025-12-10 15:29:40,180 -  DEBUG -  comparing
+ 2025-12-10 15:29:42,567 -  DEBUG -  User guesses
+ 2025-12-10 15:29:42,568 -  DEBUG -  comparing
+ 2025-12-10 15:29:45,062 -  DEBUG -  User guesses
+ 2025-12-10 15:29:45,063 -  DEBUG -  comparing
+ 2025-12-10 15:29:48,033 -  DEBUG -  Second guess
+ 2025-12-10 15:31:20,754 -  DEBUG -  First guess: heads
+ 2025-12-10 15:31:20,754 -  DEBUG -  comparing
+ 2025-12-10 15:31:22,846 -  DEBUG -  Second guess: tails
+ 2025-12-10 15:46:34,322 - DEBUG - [ch5QuizCoinFlipDebug] - First guess: heads
+ 2025-12-10 15:46:34,323 - DEBUG - [ch5QuizCoinFlipDebug] - comparing
+ 2025-12-10 15:46:35,739 - DEBUG - [ch5QuizCoinFlipDebug] - Second guess: tails
+ 2025-12-10 15:48:30,128 - DEBUG - [ch5QuizCoinFlipDebug] - First guess: heads
+ 2025-12-10 15:48:30,129 - DEBUG - [ch5QuizCoinFlipDebug] - Coin toss: tails
+ 2025-12-10 15:48:30,129 - DEBUG - [ch5QuizCoinFlipDebug] - comparing
+ 2025-12-10 15:48:31,388 - DEBUG - [ch5QuizCoinFlipDebug] - Second guess: tails

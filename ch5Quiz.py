@@ -29,5 +29,9 @@ from doctest import debug
 # 5. critical
 #
 # Question 7
-logging.disable(debug)
-
+# logging.disable(debug)
+#
+# Question 8
+# It is comparing heads and tails to random.int between 0,1 so always False.
+# Additionally, trying to use "1" or "2" as an input instead of heads or tails won't work because it is still a string.
+#

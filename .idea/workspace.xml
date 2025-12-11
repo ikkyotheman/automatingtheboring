@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6fe4704-e314-427f-acee-1a65a405345f" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/buggyAddingProgram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5Quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5QuizCoinFlipDebug.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorialLog.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorialLog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch5Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch5Quiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myProgramLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myProgramLog.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +54,7 @@
     "Python.assert.executor": "Run",
     "Python.buggyAddingProgram.executor": "Debug",
     "Python.ch5Quiz.executor": "Run",
+    "Python.ch5QuizCoinFlipDebug.executor": "Run",
     "Python.factorialLog.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -109,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765255105454</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New">
+      <option name="closed" value="true" />
+      <created>1765403858026</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765403858026</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
